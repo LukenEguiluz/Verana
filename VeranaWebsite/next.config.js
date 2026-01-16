@@ -89,11 +89,6 @@ const nextConfig = {
       },
     ];
   },
-  // Experimental features para mejor performance
-  // optimizeCss desactivado temporalmente - requiere critters
-  // experimental: {
-  //   optimizeCss: true,
-  // },
 };
 
 module.exports = nextConfig;
