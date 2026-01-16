@@ -90,9 +90,10 @@ const nextConfig = {
     ];
   },
   // Experimental features para mejor performance
-  experimental: {
-    optimizeCss: true,
-  },
+  // optimizeCss desactivado temporalmente - requiere critters
+  // experimental: {
+  //   optimizeCss: true,
+  // },
 };
 
 module.exports = nextConfig;
