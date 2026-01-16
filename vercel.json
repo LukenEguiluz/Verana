@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd VeranaWebsite && npm install && npm run build",
+  "devCommand": "cd VeranaWebsite && npm run dev",
+  "installCommand": "cd VeranaWebsite && npm install",
+  "outputDirectory": "VeranaWebsite/.next",
+  "framework": "nextjs"
+}
