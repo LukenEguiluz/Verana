@@ -61,10 +61,10 @@ export default function HomePage() {
         {/* Video Section */}
         <div className="py-16 pb-20 md:py-24 px-4 sm:px-6 lg:px-8">
           <VideoSection
-            videoUrl="https://verana.com/wp-content/uploads/verana-fond-2.mp4"
-            posterUrl="/images/video-poster.jpg"
+            vimeoId="4068659"
+            thumbnailUrl="/imagenes/Verana_LauraAustin_0113-1275x850.jpg.webp"
+            thumbnailAlt="Explore Verana - Immerse yourself in the magic of our handmade hotel, nestled in the heart of the jungle."
             title="Explore Verana"
-            description="Immerse yourself in the magic of our handmade hotel, nestled in the heart of the jungle."
           />
         </div>
 
